@@ -1,0 +1,6 @@
+code based on this video: https://www.youtube.com/watch?v=at7rpdT8FeI - Coding with Evan
+
+References that influenced my code: Learning resources
+https://www.youtube.com/watch?v=ibf5cx221hk
+https://www.youtube.com/watch?v=at7rpdT8FeI
+Time zone help: https://www.youtube.com/watch?v=SEc-aezUIaI
